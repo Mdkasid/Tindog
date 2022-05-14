@@ -204,7 +204,7 @@ p {
     text-align: center;
 }
 
-@media (max-width:993px) { 
+@media (max-width:1314px) { 
 
 #title {
     text-align: center;
@@ -213,7 +213,7 @@ p {
     .title-image {
         position: static;
         transform: rotate(0);
-        width: 50%;
+        width: 100%;
     }
     
 }
